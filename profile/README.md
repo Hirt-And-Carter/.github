@@ -53,16 +53,27 @@ A single, end-to-end solution for retail and brands:
 
 ## 💡 Technology
 
-Our own platforms, built around how retail actually works:
+We build and maintain our own platforms — purpose-built for the retail industry, not adapted from something else:
 
-- **RMS+** — workflow, campaign management, briefing and proofing in one place
-- **Price Probe** — promotional analytics, price tracking and share-of-voice reporting
-- **DAM** — centralised digital asset management for brands and products
-- **PIM** — product master data, imagery and metadata management
-- **Content Syndication** — API-based distribution of product content at scale
-- **SMARTPACK** — digitally-connected packaging that bridges physical and digital
+- **RMS+** — our flagship retail management system for workflow, campaign management, centralised briefing, proofing, budget tracking and digital asset storage. Bespoke development and AI integration available on top.
+- **Price Probe** — a dedicated analytics platform for tracking promotional pricing, measuring share-of-voice across categories and surfacing AI-powered retail insights.
+- **DAM** — centralised management of all digital brand and product assets, built for teams that need fast, governed access across multiple channels.
+- **PIM** — product master data management covering imagery, metadata and content, keeping information accurate and consistent wherever it's used.
+- **Content Syndication** — API-based distribution of enriched product content (photography, video, 360° and animation) direct to retail and e-commerce platforms at scale.
+- **SMARTPACK** — digitally-connected packaging that turns the physical shelf into a live digital touchpoint for consumers.
 
 ---
 
-[![Visit our website](https://img.shields.io/badge/hirtandcarter.co.za-%E2%86%92-FF6B00?style=flat-square)](https://hirtandcarter.co.za/)
+## 🏅 Accreditation
+
+Hirt & Carter is a **B-BBEE Level 1** contributor — reflecting our commitment to transformation and responsible business practice in South Africa.
+
+---
+
+## 👋 Get in Touch
+
+Interested in working with us, or driven by innovation and looking to join the team?
+
+**General enquiries:** [info@hc.co.za](mailto:info@hc.co.za)
+**Careers:** [hirtandcarter.co.za/careers](https://hirtandcarter.co.za/careers/)
 
