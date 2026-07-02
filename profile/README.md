@@ -2,94 +2,68 @@
 
 <img src="https://hirtandcarter.co.za/wp-content/uploads/2025/08/logo_new.svg" alt="Hirt & Carter" width="360" />
 
-### Smart Retail Solutions & Shopper Marketing
+**Smart Retail Solutions & Shopper Marketing**
 
 [![Website](https://img.shields.io/badge/Website-hirtandcarter.co.za-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hirtandcarter.co.za/)
 [![Location](https://img.shields.io/badge/Location-South%20Africa-007A4D?style=for-the-badge&logo=google-maps&logoColor=white)](https://hirtandcarter.co.za/)
-[![GitHub Followers](https://img.shields.io/github/followers/Hirt-And-Carter?label=Follow&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hirt-And-Carter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hirt%20%26%20Carter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hirt&carter/)
 
 </div>
 
 ---
 
-> *"Your vision, coupled with our execution will unlock what's next — **Next Starts Now!**"*
+> *"Your vision, coupled with our execution will unlock what's next — Next Starts Now!"*
 
-At Hirt & Carter, our clients' ambitions fuel everything we do. From strategy to implementation, we help brands connect with their customers at the perfect moment — creating impact that lasts.
+Hirt & Carter helps brands connect with their customers at the right moment, in the right place. We work across the full retail value chain — from strategy and creative through to print production, technology and in-store execution — and we've been doing it long enough to know that local knowledge matters as much as the big idea.
 
-**Our vision** is to be the partner of choice for retail marketers and brand owners, delivering innovative marketing solutions that simplify business processes, build brand awareness and grow market share.
-
-We turn possibilities into growth. With the power of technology, insight and seamless execution, we create solutions to enable our brand and retailer partners to connect with their customers at the perfect moment.
+Our goal is to be the partner retail marketers and brand owners trust to simplify complexity, build brand presence and grow market share.
 
 ---
 
-## 🌍 Our Footprint
+## Footprint
 
-<div align="center">
+We're headquartered in South Africa with offices in Durban, Cape Town and Johannesburg, and we service over 21,000 retail stores across the African continent. Our team of 1,270 people handles everything from briefing to shelf. Beyond Africa, [KDM](https://www.kdmpop.com/) extends our reach into the United States with operations in Cincinnati (Ohio) and Atlanta (Georgia).
 
-| 🏢 SA Regional Offices | 👥 Total Staff | 🛒 Retail Stores Serviced | 🌐 Global Presence |
-|:---:|:---:|:---:|:---:|
-| **3** | **1,270** | **21,000+** | South Africa · USA |
-
-</div>
-
-With print facilities and regional offices across South Africa — in **Durban**, **Cape Town** and **Johannesburg** — no-one knows local retail like we do. Our reach extends across the African continent, and through our partnership with **KDM**, we also operate in the United States with offices in **Cincinnati, Ohio** and **Atlanta, Georgia**.
+| SA Regional Offices | Total Staff | Retail Stores Serviced |
+|:---:|:---:|:---:|
+| 3 | 1,270 | 21,000+ |
 
 ---
 
-## 🛠️ What We Do
+## What We Do
 
-We offer a composable, comprehensive set of solutions purpose-built around our customers — a single solution for retail and brands:
+We cover the full spectrum of retail and shopper marketing under one roof:
 
-| Solution | Impact |
+| | |
 |---|---|
-| 🔄 **Workflow** | Optimises production, content adaptation and post-production processes |
-| 💻 **Technology** | Enables teams with RMS+, bespoke software and AI automation |
-| 📊 **Analytics** | Informs strategy with price intelligence, SOV analytics and retail insights |
-| 🛒 **Shopper** | Guides brands with deep retail insight and communication strategy |
-| 🎨 **Creative** | Elevates brands through origination, campaign ideation and content creation |
-| 📱 **Digital Media** | Connects customers via retail digital media and smart packaging |
-| 🖨️ **Print** | Performs with full-service print production, logistics and in-store execution |
-| 🛍️ **E-commerce** | Sells through DAM, PIM, product content enrichment and syndication |
+| **Workflow** | Production, content adaptation and post-production |
+| **Technology** | Proprietary platforms, bespoke software and AI-powered tooling |
+| **Analytics** | Price intelligence, SOV tracking and retail insights |
+| **Shopper** | Retail insight and shopper communication strategy |
+| **Creative** | Brand origination, campaign design and content creation |
+| **Digital Media** | Retail digital media and connected packaging |
+| **Print** | End-to-end print production, logistics and in-store execution |
+| **E-commerce** | DAM, PIM, product content and content syndication |
 
 ---
 
-## ⚙️ Technology Platforms
+## Technology
 
-We build and deploy proprietary technology across the full retail and e-commerce value chain:
+Technology is central to how we work. We've built a suite of platforms that span the retail and e-commerce value chain — not off-the-shelf tools, but systems developed around how retail actually operates.
 
-### 🔧 RMS+ — Retail Management System
-Our complete, integrated and centralised communication and briefing platform — connecting marketers, buyers, production teams and media partners in one system.
-- Promotional planning, workflow management and centralised proofing
-- Live data and reporting dashboards
-- Cost and budget management
-- Digital asset repository
-- Bespoke software development and AI integration
+**[RMS+](https://hirtandcarter.co.za/)** is our flagship workflow and campaign management platform. It connects marketers, buyers, production teams and media partners in one place, handling everything from briefing and proofing to budget tracking and asset storage. We also offer bespoke development and AI integration on top of it.
 
-### 📊 Price Probe — Retail Analytics
-A dedicated promotional analytics and price-checking platform providing:
-- Promotional share-of-voice (SOV) analytics
-- E-commerce price tracking and trend analysis
-- Retail category insights reporting
-- AI-powered data analysis
+**Price Probe** gives clients real-time visibility into the promotional landscape — tracking pricing, measuring share-of-voice, and surfacing category insights through AI-powered analysis.
 
-### 🗄️ DAM — Digital Asset Management
-Centralised management of digital brand and product assets, enabling efficient storage, access and governance across teams and channels.
+**DAM and PIM** take care of the product content infrastructure. The DAM manages digital brand and product assets centrally; the PIM handles product master data, imagery and metadata to keep information accurate and consistent across every channel.
 
-### 📦 PIM — Product Information Management
-A structured system for managing product master data, imagery and metadata — ensuring accuracy, consistency and compliance across all retail touchpoints.
+**Content Syndication** distributes that product content at scale via API to retail and e-commerce platforms — styled photography, video, 360° imagery and animation included.
 
-### 🔗 Content Syndication
-API-based content distribution that delivers enriched product content — including styled photography, video, 360° and animation — directly to retail and e-commerce platforms at scale.
-
-### 📲 SMARTPACK — Digitally-Connected Packaging
-Transforms physical packaging into a digital engagement channel, connecting consumers to dynamic digital content through smart, connected packaging experiences.
+**SMARTPACK** turns physical packaging into a live digital touchpoint, connecting consumers to dynamic content and experiences directly from the shelf.
 
 ---
 
-## 🌐 Connect With Us
+## Get in Touch
 
-<div align="center">
+[![Visit our website](https://img.shields.io/badge/hirtandcarter.co.za-%E2%86%92-FF6B00?style=flat-square)](https://hirtandcarter.co.za/)
 
-[![Visit Our Website](https://img.shields.io/badge/Visit%20Our%20Website-%E2%86%92%20Next%20Starts%20Now!-FF6B00?style=for-the-badge)](https://hirtandcarter.co.za/)
-
-</div>
