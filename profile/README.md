@@ -12,58 +12,47 @@
 
 ---
 
-> *"Your vision, coupled with our execution will unlock what's next — Next Starts Now!"*
-
-Hirt & Carter helps brands connect with their customers at the right moment, in the right place. We work across the full retail value chain — from strategy and creative through to print production, technology and in-store execution — and we've been doing it long enough to know that local knowledge matters as much as the big idea.
-
-Our goal is to be the partner retail marketers and brand owners trust to simplify complexity, build brand presence and grow market share.
+We help brands connect with their customers at the right moment, in the right place — across strategy, creative, technology, print and in-store execution.
 
 ---
 
-## Footprint
+## 📍 Footprint
 
-We're headquartered in South Africa with offices in Durban, Cape Town and Johannesburg, and we service over 21,000 retail stores across the African continent. Our team of 1,270 people handles everything from briefing to shelf. Beyond Africa, [KDM](https://www.kdmpop.com/) extends our reach into the United States with operations in Cincinnati (Ohio) and Atlanta (Georgia).
-
-| SA Regional Offices | Total Staff | Retail Stores Serviced |
+| SA Offices | Total Staff | Retail Stores |
 |:---:|:---:|:---:|
 | 3 | 1,270 | 21,000+ |
 
+South Africa (Durban · Cape Town · Johannesburg) and across the African continent. Global reach through [KDM](https://www.kdmpop.com/) in the United States.
+
 ---
 
-## What We Do
-
-We cover the full spectrum of retail and shopper marketing under one roof:
+## 🛠️ What We Do
 
 | | |
 |---|---|
 | **Workflow** | Production, content adaptation and post-production |
-| **Technology** | Proprietary platforms, bespoke software and AI-powered tooling |
+| **Technology** | Proprietary platforms, bespoke software and AI tooling |
 | **Analytics** | Price intelligence, SOV tracking and retail insights |
 | **Shopper** | Retail insight and shopper communication strategy |
-| **Creative** | Brand origination, campaign design and content creation |
+| **Creative** | Brand origination, campaign design and content |
 | **Digital Media** | Retail digital media and connected packaging |
-| **Print** | End-to-end print production, logistics and in-store execution |
+| **Print** | Print production, logistics and in-store execution |
 | **E-commerce** | DAM, PIM, product content and content syndication |
 
 ---
 
-## Technology
+## 💡 Technology
 
-Technology is central to how we work. We've built a suite of platforms that span the retail and e-commerce value chain — not off-the-shelf tools, but systems developed around how retail actually operates.
+Our own platforms, built around how retail actually works:
 
-**[RMS+](https://hirtandcarter.co.za/)** is our flagship workflow and campaign management platform. It connects marketers, buyers, production teams and media partners in one place, handling everything from briefing and proofing to budget tracking and asset storage. We also offer bespoke development and AI integration on top of it.
-
-**Price Probe** gives clients real-time visibility into the promotional landscape — tracking pricing, measuring share-of-voice, and surfacing category insights through AI-powered analysis.
-
-**DAM and PIM** take care of the product content infrastructure. The DAM manages digital brand and product assets centrally; the PIM handles product master data, imagery and metadata to keep information accurate and consistent across every channel.
-
-**Content Syndication** distributes that product content at scale via API to retail and e-commerce platforms — styled photography, video, 360° imagery and animation included.
-
-**SMARTPACK** turns physical packaging into a live digital touchpoint, connecting consumers to dynamic content and experiences directly from the shelf.
+- **RMS+** — workflow, campaign management, briefing and proofing in one place
+- **Price Probe** — promotional analytics, price tracking and share-of-voice reporting
+- **DAM** — centralised digital asset management for brands and products
+- **PIM** — product master data, imagery and metadata management
+- **Content Syndication** — API-based distribution of product content at scale
+- **SMARTPACK** — digitally-connected packaging that bridges physical and digital
 
 ---
-
-## Get in Touch
 
 [![Visit our website](https://img.shields.io/badge/hirtandcarter.co.za-%E2%86%92-FF6B00?style=flat-square)](https://hirtandcarter.co.za/)
 
