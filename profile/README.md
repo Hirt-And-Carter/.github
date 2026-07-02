@@ -30,7 +30,7 @@ We're a proudly South African business with a growing global presence. With prin
 
 **South Africa** — Durban · Cape Town · Johannesburg
 
-**United States** — Through our partnership with [KDM](https://www.kdmpop.com/), we extend our retail expertise into the US market with operations in Cincinnati (Ohio) and Atlanta (Georgia).
+**United States** — Through our subsidiary [KDM](https://www.kdmpop.com/), we operate in the US market with facilities in Cincinnati (Ohio) and Atlanta (Georgia).
 
 ---
 
