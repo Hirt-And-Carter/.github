@@ -22,17 +22,17 @@ We turn possibilities into growth. With the power of technology, insight and sea
 
 ---
 
-## 📊 Our Footprint
+## 🌍 Our Footprint
 
 <div align="center">
 
-| 🏢 Regional Offices | 👥 Total Staff | 🛒 Retail Stores Serviced | 🌍 Reach |
+| 🏢 SA Regional Offices | 👥 Total Staff | 🛒 Retail Stores Serviced | 🌐 Global Presence |
 |:---:|:---:|:---:|:---:|
-| **3** | **1,270** | **21,000+** | Pan-African |
+| **3** | **1,270** | **21,000+** | South Africa · USA |
 
 </div>
 
-With print facilities and regional offices across South Africa, no-one knows local retail like we do.
+With print facilities and regional offices across South Africa — in **Durban**, **Cape Town** and **Johannesburg** — no-one knows local retail like we do. Our reach extends across the African continent, and through our partnership with **KDM**, we also operate in the United States with offices in **Cincinnati, Ohio** and **Atlanta, Georgia**.
 
 ---
 
@@ -53,16 +53,36 @@ We offer a composable, comprehensive set of solutions purpose-built around our c
 
 ---
 
-## ⚙️ Technology Platform — RMS+
+## ⚙️ Technology Platforms
 
-**RMS+** is our complete, integrated and centralised communication and briefing platform — connecting marketers, buyers, production teams and media partners in one system.
+We build and deploy proprietary technology across the full retail and e-commerce value chain:
 
-- 📋 **Promotional Planning** — campaign and logistics alignment
-- 🔁 **Workflow Management** — centralised briefing, communication and proofing
-- 📈 **Live Dashboards** — real-time data and reporting
-- 💰 **Budget Management** — cost planning and control tools
-- 🗄️ **Digital Asset Repository** — central storage and access to brand assets
-- 🤖 **AI Integration** — predictive insights, content automation and operational optimisation
+### 🔧 RMS+ — Retail Management System
+Our complete, integrated and centralised communication and briefing platform — connecting marketers, buyers, production teams and media partners in one system.
+- Promotional planning, workflow management and centralised proofing
+- Live data and reporting dashboards
+- Cost and budget management
+- Digital asset repository
+- Bespoke software development and AI integration
+
+### 📊 Price Probe — Retail Analytics
+A dedicated promotional analytics and price-checking platform providing:
+- Promotional share-of-voice (SOV) analytics
+- E-commerce price tracking and trend analysis
+- Retail category insights reporting
+- AI-powered data analysis
+
+### 🗄️ DAM — Digital Asset Management
+Centralised management of digital brand and product assets, enabling efficient storage, access and governance across teams and channels.
+
+### 📦 PIM — Product Information Management
+A structured system for managing product master data, imagery and metadata — ensuring accuracy, consistency and compliance across all retail touchpoints.
+
+### 🔗 Content Syndication
+API-based content distribution that delivers enriched product content — including styled photography, video, 360° and animation — directly to retail and e-commerce platforms at scale.
+
+### 📲 SMARTPACK — Digitally-Connected Packaging
+Transforms physical packaging into a digital engagement channel, connecting consumers to dynamic digital content through smart, connected packaging experiences.
 
 ---
 
