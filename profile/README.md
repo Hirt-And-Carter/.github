@@ -12,11 +12,53 @@
 
 ---
 
-We help brands connect with their customers at the right moment, in the right place — across strategy, creative, technology, print and in-store execution.
+> *"Your vision, coupled with our execution will unlock what's next — Next Starts Now!"*
+
+At Hirt & Carter, our clients' ambitions fuel everything we do. From strategy to implementation, we help brands connect with their customers at the perfect moment — creating impact that lasts.
+
+Our vision is to be the partner of choice for retail marketers and brand owners. We turn possibilities into growth, using technology, insight and seamless execution to help our brand and retailer partners connect with their customers at the perfect moment.
 
 ---
 
 ## 📍 Footprint
+
+| SA Offices | Total Staff | Retail Stores |
+|:---:|:---:|:---:|
+| 3 | 1,270 | 21,000+ |
+
+South Africa (Durban · Cape Town · Johannesburg) and across the African continent. Global reach through [KDM](https://www.kdmpop.com/) in the United States.
+
+---
+
+## 🛠️ What We Do
+
+| | |
+|---|---|
+| **Workflow** | Production, content adaptation and post-production |
+| **Technology** | Proprietary platforms, bespoke software and AI tooling |
+| **Analytics** | Price intelligence, SOV tracking and retail insights |
+| **Shopper** | Retail insight and shopper communication strategy |
+| **Creative** | Brand origination, campaign design and content |
+| **Digital Media** | Retail digital media and connected packaging |
+| **Print** | Print production, logistics and in-store execution |
+| **E-commerce** | DAM, PIM, product content and content syndication |
+
+---
+
+## 💡 Technology
+
+Our own platforms, built around how retail actually works:
+
+- **RMS+** — workflow, campaign management, briefing and proofing in one place
+- **Price Probe** — promotional analytics, price tracking and share-of-voice reporting
+- **DAM** — centralised digital asset management for brands and products
+- **PIM** — product master data, imagery and metadata management
+- **Content Syndication** — API-based distribution of product content at scale
+- **SMARTPACK** — digitally-connected packaging that bridges physical and digital
+
+---
+
+[![Visit our website](https://img.shields.io/badge/hirtandcarter.co.za-%E2%86%92-FF6B00?style=flat-square)](https://hirtandcarter.co.za/)
 
 | SA Offices | Total Staff | Retail Stores |
 |:---:|:---:|:---:|
